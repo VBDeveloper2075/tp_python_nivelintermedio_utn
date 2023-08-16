@@ -1,0 +1,4 @@
+Se ha generado un cambio: Nueva Alta Aplicacion:d Usuario:d Contrasena:d 2023-08-16 13:03:22.449753
+Se ha generado un cambio: Registro Modificado Aplicacion:zz Usuario:zzzz Contrasena:zzzzz 2023-08-16 13:15:55.507499
+Se ha generado un cambio: Registro Eliminado Id elimnado :4   2023-08-16 13:33:41.547308
+Se ha generado un cambio: Nueva Alta Aplicacion:drive Usuario:vero Contrasena:aaaaa 2023-08-16 13:34:44.321342
