@@ -2,3 +2,30 @@ Se ha generado un cambio: Nueva Alta Aplicacion:d Usuario:d Contrasena:d 2023-08
 Se ha generado un cambio: Registro Modificado Aplicacion:zz Usuario:zzzz Contrasena:zzzzz 2023-08-16 13:15:55.507499
 Se ha generado un cambio: Registro Eliminado Id elimnado :4   2023-08-16 13:33:41.547308
 Se ha generado un cambio: Nueva Alta Aplicacion:drive Usuario:vero Contrasena:aaaaa 2023-08-16 13:34:44.321342
+Se ha generado un cambio: Nueva Alta Aplicacion:aaaaaa Usuario:ghjkl Contrasena:fghjkl 2023-08-16 14:53:39.006207
+Se ha generado un cambio: Registro Eliminado Id elimnado :9   2023-08-16 14:53:44.651285
+Se ha generado un cambio: Registro Modificado Aplicacion:youtube Usuario:panamericana Contrasena:vero 2023-08-16 14:55:06.489300
+Se ha generado un cambio: Registro Modificado Aplicacion:youtube Usuario:panamericana Contrasena:verosssssssss 2023-08-16 14:55:19.042555
+Se ha generado un cambio: Registro Eliminado Id elimnado :11   2023-08-16 14:59:40.667606
+Se ha generado un cambio: Nueva Alta Aplicacion:dfghjk Usuario:bbbbbbbbbbb Contrasena:bbbbbbbbbb 2023-08-16 14:59:50.306806
+Se ha generado un cambio: Registro Eliminado Id elimnado :10   2023-08-16 14:59:57.147286
+Se ha generado un cambio: Nueva Alta Aplicacion:zz Usuario:zz Contrasena:zz 2023-08-16 15:16:13.413620
+Se ha generado un cambio: Registro Eliminado Id elimnado :12   2023-08-16 15:18:07.793298
+Se ha generado un cambio: Nueva Alta Aplicacion:aaaaaa Usuario:ajajannna Contrasena:tatjajajajaj 2023-08-16 15:25:07.034528
+Se ha generado un cambio: Registro Eliminado Id elimnado :17 
+Se ha generado un cambio: Registro Eliminado Id elimnado :6 
+Se ha generado un cambio: Registro Eliminado Id elimnado :16 2023-08-16 20:55:51.031645
+Se ha generado un cambio: Registro Eliminado Id elimnado :19 2023-08-16 20:55:54.923191
+Se ha generado un cambio: Aplicacion:h Usuario:h Contrasena:h
+Se ha generado un cambio: Aplicacion:z Usuario:z Contrasena:z
+Se ha generado un cambio: Aplicacion:v Usuario:v Contrasena:v
+Se ha generado un cambio: Aplicacion:lll Usuario:lll Contrasena:lll
+Se ha generado un cambio: Aplicacion:kjhk Usuario:hkjhkj Contrasena:hkjh
+Se ha generado un cambio: Aplicacion:iiiiii Usuario:iiiii Contrasena:iiiiii
+Se ha generado un cambio: Aplicacion:yyyy Usuario:yyy Contrasena:yy
+Se ha generado un cambio: Aplicacion:DDD Usuario:DDD Contrasena:DDD
+Se ha generado un cambio: Aplicacion:B Usuario:B Contrasena:B
+Se ha generado un cambio: Aplicacion:OO Usuario:OO Contrasena:OO
+Se ha generado un cambio: Aplicacion:KK Usuario:KK Contrasena:KK
+Se ha generado un cambio: Aplicacion:PEPE Usuario:JUEGA Contrasena:FUTBOL
+Se ha generado un cambio: Aplicacion:NONO Usuario:NONON USUARU Contrasena:ONONONO

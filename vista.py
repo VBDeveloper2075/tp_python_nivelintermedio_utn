@@ -8,6 +8,7 @@ from tkinter import messagebox
 from tkinter.constants import E, W
 from tkinter.ttk import Treeview
 from modelo import Modelo
+import observador
 import re
 
 
@@ -24,6 +25,8 @@ class Ventanita(Tk):
         self.crear_treeview()
         self.configure_grid()
         self.cargar_treeview()
+
+        self.observer_a = observador.ConcreteObserverA(self.modelo)
 
         self.mainloop()
 
